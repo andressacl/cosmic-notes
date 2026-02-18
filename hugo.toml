@@ -75,7 +75,7 @@ theme = "PaperMod"
   # Here, only content under content/notes/ is promoted.
 
   canonifyURLs = false
-  relativeURLs = true
+  relativeURLs = false
 
 
 

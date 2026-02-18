@@ -2,39 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/personal-website/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/notes/fismat/material/</loc>
+    <loc>http://localhost:1313/notes/fismat/material/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/tags/mathematical-physics/</loc>
+    <loc>http://localhost:1313/tags/mathematical-physics/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/categories/notes/</loc>
+    <loc>http://localhost:1313/categories/notes/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/tags/cluster/</loc>
-    <lastmod>2026-02-06T18:28:09-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/personal-website/tags/computation/</loc>
-    <lastmod>2026-02-06T18:28:09-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/personal-website/notes/sdumont2nd/</loc>
-    <lastmod>2026-02-06T18:28:09-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/personal-website/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-13T22:40:49-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-01-09T17:29:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website/simulations/</loc>
+    <loc>http://localhost:1313/simulations/</loc>
   </url>
 </urlset>
