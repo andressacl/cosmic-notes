@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://andressacl.github.io/personal-website/</loc><lastmod>2026-01-13T22:40:49-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/tags/astrophysics/</loc><lastmod>2026-01-09T17:34:34-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/categories/</loc><lastmod>2026-01-09T17:34:34-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/notes/cosmicrays/</loc><lastmod>2026-01-09T17:34:34-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/categories/notes/</loc><lastmod>2026-01-09T17:34:34-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/notes/</loc><lastmod>2026-01-09T17:34:34-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/tags/particle-physics/</loc><lastmod>2026-01-09T17:34:34-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/tags/</loc><lastmod>2026-01-09T17:34:34-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/about/</loc><lastmod>2026-01-09T17:29:23-03:00</lastmod></url><url><loc>https://andressacl.github.io/personal-website/simulations/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/personal-website/categories/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/notes/fismat/material/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/mathematical-physics/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/categories/notes/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/notes/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/cluster/</loc>
+    <lastmod>2026-02-06T18:28:09-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/computation/</loc>
+    <lastmod>2026-02-06T18:28:09-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/notes/sdumont2nd/</loc>
+    <lastmod>2026-02-06T18:28:09-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/</loc>
+    <lastmod>2026-01-13T22:40:49-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/about/</loc>
+    <lastmod>2026-01-09T17:29:23-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/simulations/</loc>
+  </url>
+</urlset>

@@ -1,2 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Particle Physics on Andressa's corner</title><link>https://andressacl.github.io/personal-website/tags/particle-physics/</link><description>Recent content in Particle Physics on Andressa's corner</description><generator>Hugo -- 0.146.0</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 17:34:34 -0300</lastBuildDate><atom:link href="https://andressacl.github.io/personal-website/tags/particle-physics/index.xml" rel="self" type="application/rss+xml"/><item><title>Cosmic Rays</title><link>https://andressacl.github.io/personal-website/notes/cosmicrays/</link><pubDate>Fri, 09 Jan 2026 17:34:34 -0300</pubDate><guid>https://andressacl.github.io/personal-website/notes/cosmicrays/</guid><description>&lt;h2 id="what-are-cosmic-rays">What are Cosmic Rays?&lt;/h2>
-&lt;p>Cosmic Rays are charged particles etc etc&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Particle Physics on Cosmic Notes</title>
+    <link>http://localhost:1313/personal-website/tags/particle-physics/</link>
+    <description>Recent content in Particle Physics on Cosmic Notes</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/personal-website/tags/particle-physics/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

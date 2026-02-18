@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Andressa's corner</title><link>https://andressacl.github.io/personal-website/tags/</link><description>Recent content in Tags on Andressa's corner</description><generator>Hugo -- 0.146.0</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 17:34:34 -0300</lastBuildDate><atom:link href="https://andressacl.github.io/personal-website/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Astrophysics</title><link>https://andressacl.github.io/personal-website/tags/astrophysics/</link><pubDate>Fri, 09 Jan 2026 17:34:34 -0300</pubDate><guid>https://andressacl.github.io/personal-website/tags/astrophysics/</guid><description/></item><item><title>Particle Physics</title><link>https://andressacl.github.io/personal-website/tags/particle-physics/</link><pubDate>Fri, 09 Jan 2026 17:34:34 -0300</pubDate><guid>https://andressacl.github.io/personal-website/tags/particle-physics/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Cosmic Notes</title>
+    <link>http://localhost:1313/personal-website/tags/</link>
+    <description>Recent content in Tags on Cosmic Notes</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Feb 2026 03:31:40 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematical Physics</title>
+      <link>http://localhost:1313/personal-website/tags/mathematical-physics/</link>
+      <pubDate>Wed, 18 Feb 2026 03:31:40 -0300</pubDate>
+      <guid>http://localhost:1313/personal-website/tags/mathematical-physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cluster</title>
+      <link>http://localhost:1313/personal-website/tags/cluster/</link>
+      <pubDate>Fri, 06 Feb 2026 18:28:09 -0300</pubDate>
+      <guid>http://localhost:1313/personal-website/tags/cluster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computation</title>
+      <link>http://localhost:1313/personal-website/tags/computation/</link>
+      <pubDate>Fri, 06 Feb 2026 18:28:09 -0300</pubDate>
+      <guid>http://localhost:1313/personal-website/tags/computation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

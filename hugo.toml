@@ -10,7 +10,7 @@ baseURL = "https://andressacl.github.io/personal-website/"
 languageCode = "en-us"
 # Language used for site metadata and defaults
 
-title = "Andressa's corner"
+title = "Cosmic Notes"
 # Global site title, shown in browser tab and metadata.
 
 theme = "PaperMod"
@@ -45,7 +45,7 @@ theme = "PaperMod"
   author = "Andressa"
   # Used in metadata, footer, and SEO.
 
-  description = "Educational and technical notes in astrophysics."
+  description = "Educational and technical notes in physics and astrophysics."
   # Meta description for search engines.
 
   ShowReadingTime = true
@@ -88,7 +88,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
 
-  title = "PhD Research Notes"
+  title = "Andressa Colaço | PhD Research & Study Notes"
   subtitle = "Astrophysics · Cosmic Rays · Simulations"
 
   imageUrl = "images/profile.png"

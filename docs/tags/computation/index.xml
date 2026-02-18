@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Notes on Cosmic Notes</title>
-    <link>http://localhost:1313/personal-website/categories/notes/</link>
-    <description>Recent content in Notes on Cosmic Notes</description>
+    <title>Computation on Cosmic Notes</title>
+    <link>http://localhost:1313/personal-website/tags/computation/</link>
+    <description>Recent content in Computation on Cosmic Notes</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 03:31:40 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/personal-website/categories/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Material Complementar para Física Matemática A</title>
-      <link>http://localhost:1313/personal-website/notes/fismat/material/</link>
-      <pubDate>Wed, 18 Feb 2026 03:31:40 -0300</pubDate>
-      <guid>http://localhost:1313/personal-website/notes/fismat/material/</guid>
-      <description>&lt;p&gt;Nesse arquivo separei alguns materiais complementares aos livros-textos. Não são aulas: alguns são para visualização dos conceitos estudados, alguns são relacionados que achei interessantes. Irei atualizando conforme encontrar mais materiais. Aproveitem!&lt;/p&gt;
-&lt;h2 id=&#34;equações-diferenciais-parciais-na-física&#34;&gt;Equações diferenciais parciais na Física&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=p_di4Zn4wz4&amp;amp;list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&#34;&gt;Playlist: Differential equations (3Blue1Brown)&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;separação-de-variáveis-em-geometrias-simples&#34;&gt;Separação de variáveis em geometrias simples&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/r6sGWTCMz2k?si=TRFRpwpeoYGq2S9F&#34;&gt;Vídeo: But what is a Fourier series? From heat flow to drawing with circles | DE4 (3Blue1Brown)&lt;/a&gt;  &lt;br&gt;
-&lt;a href=&#34;https://youtu.be/TgKwz5Ikpc8?si=84GLO4MrZtIHia63&#34;&gt;Vídeo: Abstract vector spaces | 3Blue1Brown&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;funções-de-green&#34;&gt;Funções de Green&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/ism2SfZgFJg?si=BIAv5RsDW3dtcLbK&#34;&gt;Vídeo: Green&amp;rsquo;s functions: the genius way to solve DEs (Mathemaniac)&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 18:28:09 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal-website/tags/computation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SDumont2nd</title>
       <link>http://localhost:1313/personal-website/notes/sdumont2nd/</link>
