@@ -144,24 +144,24 @@ theme = "PaperMod"
 
 [[menu.main]]
 name = "Notes"
-url = "notes/"
+url = "/notes/"
 weight = 10
 # Lower weight = earlier in menu.
 
 [[menu.main]]
 name = "Tags"
-url = "tags/"
+url = "/tags/"
 weight = 20
 
 [[menu.main]]
 name = "Publications"
-url = "publications/"
+url = "/publications/"
 weight = 35
 
 
 [[menu.main]]
 name = "Archives"
-url = "archives/"
+url = "/archives/"
 weight = 30
 
 [[menu.main]]
