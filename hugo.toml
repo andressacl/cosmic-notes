@@ -2,7 +2,7 @@
 # Core site configuration #
 ############################
 publishDir = "docs"
-baseURL = "https://andressacl.github.io/personal-website/"
+baseURL = "https://andressacl.github.io/cosmic-notes/"
 
 canonifyURLs = true
 relativeURLs = false
