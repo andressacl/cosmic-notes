@@ -4,6 +4,9 @@
 publishDir = "docs"
 baseURL = "https://andressacl.github.io/personal-website/"
 
+canonifyURLs = true
+relativeURLs = false
+
 # Base URL of the site. For local development use localhost.
 # For deployment (e.g. GitHub Pages), change to your real URL.
 
@@ -74,8 +77,8 @@ theme = "PaperMod"
   # Controls which sections appear on the homepage (important).
   # Here, only content under content/notes/ is promoted.
 
-  canonifyURLs = false
-  relativeURLs = false
+  #canonifyURLs = false
+  #relativeURLs = true
 
 
 

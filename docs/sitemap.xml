@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://andressacl.github.io/personal-website/categories/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/fismat/material/</loc>
+    <loc>https://andressacl.github.io/personal-website/notes/fismat/material/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mathematical-physics/</loc>
+    <loc>https://andressacl.github.io/personal-website/tags/mathematical-physics/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/notes/</loc>
+    <loc>https://andressacl.github.io/personal-website/categories/notes/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>https://andressacl.github.io/personal-website/notes/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://andressacl.github.io/personal-website/tags/</loc>
     <lastmod>2026-02-18T03:31:40-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://andressacl.github.io/personal-website/</loc>
     <lastmod>2026-01-13T22:40:49-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://andressacl.github.io/personal-website/about/</loc>
     <lastmod>2026-01-09T17:29:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/simulations/</loc>
+    <loc>https://andressacl.github.io/personal-website/simulations/</loc>
   </url>
 </urlset>
