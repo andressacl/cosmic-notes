@@ -2,7 +2,7 @@
 title = 'Material Complementar para Física Matemática A'
 date = 2026-02-18T03:31:40-03:00
 draft = false
-tags = ["mathematical physics"]
+tags = ["mathematical physics", "pt"]
 categories = ["notes"]
 +++
 
