@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://andressacl.github.io/cosmic-notes/categories/</loc><lastmod>2026-02-18T03:31:40-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/notes/fismat/material/</loc><lastmod>2026-02-18T03:31:40-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/tags/mathematical-physics/</loc><lastmod>2026-02-18T03:31:40-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/categories/notes/</loc><lastmod>2026-02-18T03:31:40-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/notes/</loc><lastmod>2026-02-18T03:31:40-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/tags/</loc><lastmod>2026-02-18T03:31:40-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/</loc><lastmod>2026-01-13T22:40:49-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/about/</loc><lastmod>2026-01-09T17:29:23-03:00</lastmod></url><url><loc>https://andressacl.github.io/cosmic-notes/simulations/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/cosmic-notes/categories/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/notes/fismat/material/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/tags/mathematical-physics/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/categories/notes/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/notes/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/tags/pt/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/tags/</loc>
+    <lastmod>2026-02-18T03:31:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/publications/</loc>
+    <lastmod>2026-01-19T22:51:11-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/</loc>
+    <lastmod>2026-01-13T22:40:49-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/about/</loc>
+    <lastmod>2026-01-09T17:29:23-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cosmic-notes/simulations/</loc>
+  </url>
+</urlset>
