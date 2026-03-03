@@ -1,17 +1,13 @@
 +++
 title = 'Publications'
 date = 2026-01-19T22:51:11-03:00
-draft = true
+draft = False
 +++
 
-## Peer-reviewed Articles
-
-- Andressa C., *et al.* (2025). *Title of paper*. Journal Name. DOI: https://doi.org/...
+[comment]: # (## Peer-reviewed Articles)
 
 ## Preprints
 
-- Andressa C., *et al.* (2024). *Title of preprint*. arXiv:2401.01234.
+- A. Colaço, G. Azeredo, I. Parillo, C. de Oliveira and V. de Souza. *Modeling individual nearby radio galaxies as ultra-high-energy cosmic-ray accelerators.* [arXiv:2602.23458.](https://arxiv.org/abs/2602.23458)
 
-## Talks and Posters
 
-- *Title*, Conference Name, Year.
